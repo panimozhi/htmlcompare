@@ -1,0 +1,24 @@
+[
+  {
+    "key": "page1",
+    "pageName": "About Baeldung _ Baeldung.html",
+    "url": "https://www.tutorialspoint.com/about/return_refund_policy.htm",
+    "download": true,
+    "lookupWords": [
+      "developers",
+      "Java ecosystem",
+      "twitter"
+    ]
+  },
+  {
+    "key": "page2",
+    "pageName": "About Dup.html",
+    "url": "https://www.baeldung.com/aboutrr",
+    "download": true,
+    "lookupWords": [
+      "developers",
+      "Java ecosystem",
+      "twitter"
+    ]
+  }
+]
